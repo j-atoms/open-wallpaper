@@ -8,3 +8,4 @@ dark-j-atoms-License.CCBY-SA-4.0,
 lessdark-j-atoms-License.CCBY-SA-4.0,
 fall river-j-atoms-License.CCBY-SA-4.0,
 crust-j-atoms-License.CCBY-SA-4.0,
+spot-j-atoms-License.CCBY-SA-4.0
