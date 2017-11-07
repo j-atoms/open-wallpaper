@@ -10,3 +10,4 @@ fall river-j-atoms-License.CCBY-SA-4.0,
 crust-j-atoms-License.CCBY-SA-4.0,
 spot-j-atoms-License.CCBY-SA-4.0
 painted outcrop-j-atoms-License.CCBY-SA-4.0
+dim,warm,no storm-j-atoms-License.CCBY-SA-4.0
