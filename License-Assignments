@@ -1,11 +1,12 @@
 Please append file name-contributor-license requirements as follows:
 (nameoffile)-(contributor)-(license)
-burn-j-atoms-License CC BY-SA-4.0,
-dark-j-atoms-License CC BY-SA-4.0,
-lessdark-j-atoms-License.CC BY-SA-4.0,
-fall river-j-atoms-License CC BY-SA-4.0,
-crust-j-atoms-License CC BY-SA-4.0,
-spot-j-atoms-License CC BY-SA-4.0
-painted outcrop-j-atoms-License CC BY-SA-4.0
-dim,warm,no storm-j-atoms-License CC BY-SA-4.0
-walk-j-atoms-Licence CC BY-SA-4.0
+burn-j-atoms-CC BY-SA-4.0,
+dark-j-atoms-CC BY-SA-4.0,
+lessdark-j-atoms-CC BY-SA-4.0,
+fall river-j-atoms-CC BY-SA-4.0,
+crust-j-atoms-CC BY-SA-4.0,
+spot-j-atoms-CC BY-SA-4.0
+painted outcrop-j-atoms-CC BY-SA-4.0
+dim,warm,no storm-j-atoms-CC BY-SA-4.0
+walk-j-atoms-CC BY-SA-4.0
+pedernales-j-atoms-CC BY-SA-4.0
